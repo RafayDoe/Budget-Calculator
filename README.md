@@ -17,7 +17,7 @@ Storage: Browser LocalStorage
 
 **How to Use**
 Clone or download the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/RafayDoe/Budget-Calculator.git
 Open index.html in your browser.
 Enter your budget → Add expenses → See your remaining balance update live.
 
